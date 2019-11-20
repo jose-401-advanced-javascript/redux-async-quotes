@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import character from './characterReducer';
+import character from './dragonAge';
 
 export default combineReducers({
   character
